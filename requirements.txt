@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langgraph
+
+chromadb
+sentence-transformers
+pypdf
+
+torch
+torchvision
+transformers
+Pillow
